@@ -1,6 +1,6 @@
 ### Hello,I am Ritushree Dutta!👋
 
-- 🔭 I’m a cse undergrad.
+- 🔭 I’m a cloud engineer.
 - 🌱 I’m enthusiastic to work on cloud development projects and on similar staffs.
 - 👯 I’m looking to make connections on LinkedIn.
 - 💬 Ask me about java,sql and AWS cloud any tech related stuff.
